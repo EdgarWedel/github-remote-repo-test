@@ -3,4 +3,3 @@ git add <file>
 git commit -m "your commit message"
 hallo welt das ist ein Test
 gucken ob es funktioniert
-git reset --soft HEAD~1
